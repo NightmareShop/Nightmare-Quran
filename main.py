@@ -8,7 +8,7 @@ from pytube import Playlist
 
 
 TOKEN = '' # bot token
-GUILD_ID = '' # bot id
+GUILD_ID = '' # server id
 CHANNEL_ID = '' # channel id ( stage / voice channel )
 
 intents = discord.Intents.default()
